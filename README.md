@@ -2,12 +2,6 @@
 
 Official implement
 
-## Data
-
-```
-
-```
-
 
 ## Run
 
