@@ -2,9 +2,9 @@
 
 Official implement
 
-## Run
+## Data
 
-Download from this [link](https://github.com/TaoShi1998/MultiEMO/tree/main/Data), and put them into data folder.
+Download from this [link](https://github.com/TaoShi1998/MultiEMO/tree/main/Data), and put them into Dataset folder.
 
 ## Run
 
