@@ -1,0 +1,1 @@
+python Train/TrainMultiEMO.py  --dataset 'MELD' --batch_size 64 --num_layer 6 --num_epochs 30 --MultiDSC_loss_param 1 --HGR_loss_param 0.3 --CE_loss_param 0.4 --sample_weight_param 1.2 --temp_param 1.4   2>&1 | tee Log/MELD/MELD_results.put
