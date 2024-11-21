@@ -2,6 +2,9 @@
 
 Official implement
 
+## Run
+
+Download from this [link](https://github.com/TaoShi1998/MultiEMO/tree/main/Data), and put them into data folder.
 
 ## Run
 
