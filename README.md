@@ -1,4 +1,4 @@
-# SpikEmo: Enhancing Emotion Recognition Ability with Spiking Temporal Dynamics in Conversations
+# [IJCNN25] SpikEmo: Enhancing Emotion Recognition Ability with Spiking Temporal Dynamics in Conversations
 
 Official implement of [SpikEmo](https://arxiv.org/abs/2411.13917)
 
